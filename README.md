@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is damo and I'm a backend/frontend/software developer, from england</p>
+<p align="left">My name is damo and I'm a backend/frontend/software developer </p>
 
 ###
 
