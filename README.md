@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning next.js<br>🎯 Goals: to build the best store / game hosting platform as a single developer for my own company.<br>🎲 Fun fact: my computer is my heater in my room.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning next.js<br>🎯 Goals: to build the best store / game hosting platform as a single developer for my own company.<br>🎲 Fun fact: my computer is my heater in my room. its actually quite good</p>
 
 ###
 
